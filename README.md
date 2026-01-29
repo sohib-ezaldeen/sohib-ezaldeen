@@ -10,7 +10,7 @@ Currently focused on improving my skills and writing clean, readable code.
 
 ## 👨‍💻 About Me
 - 🌱 Currently learning **Web Development**
-- 💻 Interested in Front-End & basic Back-End concepts
+- 💻 Interested in Front-End 
 - 🧠 Strong understanding of programming fundamentals
 - 🚀 Eager to grow and contribute to real projects
 
